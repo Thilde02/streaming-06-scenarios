@@ -3,7 +3,7 @@
 ## WEDNESDAY: Complete Workflow Phase 1-3
 
 Follow the instructions in
-[⭐ **Workflow: Apply Example**](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/).
+[⭐ **Workflow: Apply Example**](https://Thilde02.github.io/pro-analytics-02/workflow-b-apply-example-project/).
 
 Complete:
 

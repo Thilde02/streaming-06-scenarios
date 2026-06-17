@@ -31,7 +31,7 @@ Other ideas for domain-specific storage include:
   - Store reference data (regions, products) in DuckDB for SQL-based lookups.
   - Add a table for messages that timed out or had Kafka delivery errors.
 
-Author: Denise Case
+Author: Tiffany Hildebrand
 Date: 2026-05
 
 OBS:

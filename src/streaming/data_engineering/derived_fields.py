@@ -14,7 +14,7 @@ We add total_price, tax_amount, and total as derived fields in this example.
 The producer sends raw measurements only.
 The consumer is responsible for all derived calculations.
 
-Author: Denise Case
+Author: Tiffany Hildebrand
 Date: 2026-05
 
 OBS:

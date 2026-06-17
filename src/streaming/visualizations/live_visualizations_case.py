@@ -6,7 +6,7 @@ This module creates a live line chart of sale total by message.
 The chart opens in a window while the consumer is running and updates
 as each message is consumed.
 
-Author: Denise Case
+Author: Tiffany Hildebrand
 Date: 2026-05
 
 OBS:

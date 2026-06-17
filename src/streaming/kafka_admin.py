@@ -2,7 +2,7 @@
 
 Creates, inspects, and optionally deletes Kafka topics.
 
-Author: Denise Case
+Author: Tiffany Hildebrand
 Date: 2026-05
 
 Run this BEFORE the producer and consumer to ensure the topic exists.

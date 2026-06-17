@@ -67,7 +67,7 @@ listed in `pyproject.toml`.
 ## Kafka Instructions
 
 Kafka instructions are available at
-[kafka](https://denisecase.github.io/pro-analytics-02/kafka/).
+[kafka](https://Thilde02.github.io/pro-analytics-02/kafka/).
 
 ## Many Terminals
 
